@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '793'
     url: http://www.gutenberg.org/2009/agents/793
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17321#History-of-Egypt-Chaldea-Syria-Babylonia-and-Assyria-in-the-Light-of-Recent-Discovery
 gutenberg_bookshelf:
 - Archaeology
 - Egypt
